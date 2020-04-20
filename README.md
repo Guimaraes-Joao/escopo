@@ -1,0 +1,2 @@
+# escopo
+Trabalho cury
